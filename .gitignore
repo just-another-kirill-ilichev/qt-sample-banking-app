@@ -1,0 +1,10 @@
+# Python stuff
+/venv
+/__pycache__
+
+# IDE stuff
+/.idea
+/.vscode
+
+# Mac OS specific
+.DS_Store

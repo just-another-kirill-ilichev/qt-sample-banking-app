@@ -1,0 +1,6 @@
+autopep8==1.5.6
+pycodestyle==2.7.0
+PyQt5==5.15.2
+PyQt5-sip==4.19.24
+TBB==0.1
+toml==0.10.2
